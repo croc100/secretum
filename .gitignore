@@ -1,0 +1,23 @@
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+
+# android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/build/
+android/app/build/
+*.apk
+*.aab
+
+# arduino / platformio
+firmware/**/build/
+.pio/
+
+# misc
+.DS_Store
+frame.jpg
