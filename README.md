@@ -24,6 +24,7 @@ DIY AI 글라스 스켈레톤. **안경은 센서·액추에이터만, 두뇌는
 | `server/` | 백엔드 (Python 3.12+) |
 | `tools/ble_probe.py` | 폰 없이 노트북으로 안경 펌웨어 검증 |
 | `docs/PROTOCOL.md` | BLE / SSE 계약, 버튼·햅틱 매핑 |
+| `docs/DESIGN.md` | 지연·전력 예산, 상태 머신, 실패 시나리오, 하드웨어 로드맵, 백로그 |
 
 ## 동작
 
